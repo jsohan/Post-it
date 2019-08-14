@@ -5,7 +5,7 @@ An image sharing app that allows you to sign in or create an account. Once logge
 http://lamp.cse.fau.edu/~jsohan2014/p8
 
 ### Pre-made account:
+(feel free to make your own account)
 - UN: Jake
 - Pass: Joshua
-(feel free to make your own account)
 
