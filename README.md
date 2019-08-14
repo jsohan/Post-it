@@ -6,8 +6,6 @@ http://lamp.cse.fau.edu/~jsohan2014/p8
 
 ### Pre-made account:
 UN: Jake
-
 Pass: Joshua
-
 (feel free to make your own account)
 
