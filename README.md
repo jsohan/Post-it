@@ -9,3 +9,8 @@ http://lamp.cse.fau.edu/~jsohan2014/p8
 - UN: Jake
 - Pass: Joshua
 
+# Languages Used:
+- HTML5/Bootstraps
+- Javascript 
+- PHP
+- SQL
